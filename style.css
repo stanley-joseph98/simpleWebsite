@@ -1,0 +1,5 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+    color: orange; /* Changed from text-decoration-color to color */
+}
